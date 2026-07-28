@@ -22,7 +22,7 @@ Slow Dive는 바다를 탐사하며 다양한 생물을 포획하고, 수집한 
 
 수중 탐사 분위기와 작살을 활용한 생물 포획 표현 참고
 
-<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/a9ecf2c8-9e4f-432e-975b-99cc15835333" />
+<img width="400" height="338" alt="image" src="https://github.com/user-attachments/assets/a9ecf2c8-9e4f-432e-975b-99cc15835333" />
 
 
 > 출처: Dave the Diver 공식 트레일러
