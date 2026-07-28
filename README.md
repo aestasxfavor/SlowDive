@@ -25,9 +25,6 @@ Slow Dive는 바다를 탐사하며 다양한 생물을 포획하고, 수집한 
 [<img width="400" height="338" alt="image" src="https://github.com/user-attachments/assets/a9ecf2c8-9e4f-432e-975b-99cc15835333" />](https://cdn.gametoc.co.kr/news/photo/202310/76579_236429_5726.gif)
 
 
-> 출처: Dave the Diver 공식 트레일러
-
-
 ## 게임 플레이 흐름
 육지 → 잠수 → 탐사 및 포획 → 귀환 → 결과 확인 → 수집 결과 관리 → 재탐사 
 
