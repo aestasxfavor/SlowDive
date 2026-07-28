@@ -23,7 +23,7 @@ Slow Dive는 바다를 탐사하며 다양한 생물을 포획하고, 수집한 
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/24f7d9da-b299-468b-a20c-1daf5a688eaa" />
 
-
+> 출처: Dave the Diver 공식 트레일러
 
 
 ## 게임 플레이 흐름
