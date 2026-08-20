@@ -4,8 +4,8 @@
 
 ## 게임 개요
 - 프로젝트 진행 기간: 2025.10 ~ 2026.07
-- 핵심 개발 기간: 약 6~7주
-- 이후 리팩토링 및 기능 확장 진행
+- 집중 개발 기간: 약 5개월
+- 개발 과정: 기획·프로토타입 → 핵심 기능 구현 및 리팩토링 → UI 보완 및 마무리
 - 개발 형태: 개인 프로젝트
 - 개발 환경: Unity 6, C#
 - 버전 관리: Git / GitHub Desktop
@@ -51,7 +51,7 @@ Slow Dive는 바다를 탐사하며 다양한 생물을 포획하고, 수집한 
 - https://app.notion.com/p/3be1270d8f268061afa7d8716be25fa7
 
 ## 플레이 영상
-- 추후 링크 연동 예정
+- https://youtu.be/tjQxnW_7G5I
 
 ## 빌드 파일
 - https://github.com/aestasxfavor/SlowDive/releases/tag/v1.0.0
