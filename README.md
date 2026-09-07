@@ -48,7 +48,7 @@ Slow Dive는 바다를 탐사하며 다양한 생물을 포획하고, 수집한 
 - JSON 기반 게임 진행 데이터 저장 및 불러오기
 
 ## 포트폴리오 문서
-- https://app.notion.com/p/3be1270d8f268061afa7d8716be25fa7
+- https://river-goal-1ae.notion.site/Slow-Dive-3be1270d8f2680b7be31dfd956c9d931
 
 ## 플레이 영상
 - https://youtu.be/tjQxnW_7G5I
