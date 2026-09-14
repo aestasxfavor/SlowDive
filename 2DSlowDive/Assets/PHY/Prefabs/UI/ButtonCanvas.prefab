@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b7da58acc39e0645829886533cf2700, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TooltipTrigger
-  tooltipText: "\uD0D0\uD5D8\uD558\uAE30"
+  tooltipText: "\uD0D0\uC0AC\uD558\uAE30"
   placement: 1
 --- !u!1 &5124189731193022110
 GameObject:
