@@ -13,11 +13,15 @@ public class DiveResultUI : MonoBehaviour
         caughtCountText.text = $"회수한 표본 {caughtCount}개";
 
         bool hasNewDiscovery = newDiscoveryCount > 0;
-
         newDiscoveryText.gameObject.SetActive(hasNewDiscovery);
+
         if (hasNewDiscovery)
         {
-            newDiscoveryText.text += $" 신규 발견 {newDiscoveryCount}종";
+            newDiscoveryText.text = $"신규 발견 {newDiscoveryCount}종";
+        }
+        else
+        {
+            newDiscoveryText.text = string.Empty;
         }
     }
 

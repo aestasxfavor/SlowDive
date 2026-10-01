@@ -23,7 +23,7 @@ public class ShopUI : MonoBehaviour
 
     private PopupManager popupManager;
 
-    private const int RequiredCoin = 1500;
+    private const int RequiredCoin = 800;
 
     private void Awake()
     {
